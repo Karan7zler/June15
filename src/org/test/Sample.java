@@ -10,6 +10,8 @@ public class Sample {
 		String Age ="45";
 		System.out.println(Age);
 
+		String EmployeeId ="358";
+		System.out.println(EmployeeId);
 	}
 
 }
