@@ -6,6 +6,9 @@ public class Sample {
 		
 		String name ="Tamil";
 		System.out.println(name);
+		
+		String Age ="45";
+		System.out.println(Age);
 
 	}
 
