@@ -1,6 +1,14 @@
 package org.test;
 
 public class Sample {
+	
+	private void method1() {
+		System.out.println("Karan");
+	}
+	
+	
+	
+	
 
 	public static void main(String[] args) {
 		
@@ -10,6 +18,14 @@ public class Sample {
 		String Age ="45";
 		System.out.println(Age);
 
+		String EmployeeId ="358";
+		System.out.println(EmployeeId);
+		
+		Sample s = new Sample();
+		
+		s.method1();
+		
+		
 	}
 
 }
