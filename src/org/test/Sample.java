@@ -6,7 +6,9 @@ public class Sample {
 		System.out.println("Karan");
 	}
 	
-	
+	private void method2() {
+		System.out.println("system out");
+	}
 	
 	
 
@@ -24,7 +26,7 @@ public class Sample {
 		Sample s = new Sample();
 		
 		s.method1();
-		
+		s.method2();
 		
 	}
 
